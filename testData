@@ -1,0 +1,44 @@
+{
+        "id": "6050b5ad09f89405a50c9ea3",
+        "gender": 1,
+        "height": 0,
+        "data": [
+            {
+                "name": "身高",
+                "value": 71.1,
+                "isAngle": false
+            },
+            {
+                "name": "肩围",
+                "value": 104.2,
+                "isAngle": false
+            },
+            {
+                "name": "胸围",
+                "value": 81.6,
+                "isAngle": false
+            },
+            {
+                "name": "腰围",
+                "value": 67.8,
+                "isAngle": false
+            },
+            {
+                "name": "髋围",
+                "value": 81.5,
+                "isAngle": false
+            },
+            {
+                "name": "手臂长",
+                "value": 72.8,
+                "isAngle": false
+            },
+            {
+                "name": "颈围",
+                "value": 34.4,
+                "isAngle": false
+            }
+        ],
+        "created_at": "2021-03-16 21:42:05",
+        "updated_at": "2021-03-16 21:42:14"
+    }
